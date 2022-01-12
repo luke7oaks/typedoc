@@ -38,7 +38,7 @@
     "marked": "^0.7.0",
     "minimatch": "^3.0.0",
     "progress": "^2.0.3",
-    "shelljs": "^0.8.3",
+    "shelljs": "^0.8.5",
     "typedoc-default-themes": "^0.6.0",
     "typescript": "3.5.x"
   },
