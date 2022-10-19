@@ -36,7 +36,7 @@
     "highlight.js": "^9.15.8",
     "lodash": "^4.17.15",
     "marked": "^0.7.0",
-    "minimatch": "^3.0.0",
+    "minimatch": "^3.0.5",
     "progress": "^2.0.3",
     "shelljs": "^0.8.3",
     "typedoc-default-themes": "^0.6.0",
